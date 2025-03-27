@@ -96,7 +96,7 @@ public class Triangulo {
 
         // Verificar se a  condição do Teorema de Pitágoras para identificar um triângulo retângulo
         if (hipotenusa * hipotenusa == cateto1 * cateto1 + cateto2 * cateto2) {
-            System.out.println("O triângulo é retângulo.");
+            System.out.println("O triângulo é retângulo. este triangulo é um tipo 3,4,5 ");
         } else {
             System.out.println("O triângulo NÃO é retângulo.");
         }
